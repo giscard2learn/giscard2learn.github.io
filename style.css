@@ -7,21 +7,4 @@ html, body {
 	margin-right: 200px;
 }
 
-.page-description {
-	border: 1px solid #000;
-    padding: 30px;
-}
-h1 {
-	font-family: Palatino, 'Palatino Linotype', serif; font-size: 24px;
-color: black;
-text-align: center}
-}
 
-h2 {
-	font-family: Palatino, 'Palatino Linotype', serif; font-size: 14px;
-color: blue;}
-}
-<p> {
-	font-family: Palatino, 'Palatino Linotype', serif; font-size: 12px;
-color: blue;}
-}
