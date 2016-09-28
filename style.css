@@ -1,13 +1,7 @@
 P {
 color: grey;
 }
-h1{
-  font-family: serif,
-    font-size: 20,
-    font-color: blue;
-}
-h2{
-  font-family: serif,
-    font-size: 8,
-    font-color: blue;
+h1 {
+	font-family: Palatino, 'Palatino Linotype', serif; font-size: 32px;
+color: rgb(216,218,190);}
 }
