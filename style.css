@@ -4,7 +4,7 @@ html, body {
   flex-direction: column;
   font-weight: 300;
   line-height: 1.5;
-	text-align: center;
+	text-align: right;
 }
 }
 h1 {
@@ -15,7 +15,8 @@ text-align: center}
 
 h2 {
 	font-family: Palatino, 'Palatino Linotype', serif; font-size: 14px;
-color: blue;}
+color: blue;
+text-align: center}
 }
 <p> {
 	font-family: Palatino, 'Palatino Linotype', serif; font-size: 12px;
